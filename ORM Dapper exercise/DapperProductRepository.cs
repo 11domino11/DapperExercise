@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Dapper;
+
+namespace ORM_Dapper_exercise
+{
+    public class DapperProductRepository : IProductRepository
+    {
+        private readonly IDbConnection _connection;
+        public DapperProductRepository(IDbConnection connection)
+        {
+            _connection = connection;
+        }
+        public string Name { get; set; }
+        public double Price { get; set; }
+        public int CategoryID { get; set; }
+
+        public void CreateProduct(string name, double price, int categoryID)
+        {
+            _connection.Execute("INSERT INTO products (Name, Price, CategoryID) VALUES(@name, @price, @categoryID);",
+            new {name = name, price = price, categoryID = categoryID});
+        }
+
+        public IEnumerable<Product> GetAllProducts()
+        {
+            return _connection.Query<Product>("SELECT * FROM PRODUCTS;");
+        }
+    }
+}
