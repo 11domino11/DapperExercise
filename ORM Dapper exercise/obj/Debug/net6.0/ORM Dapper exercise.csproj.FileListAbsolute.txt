@@ -1,0 +1,44 @@
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\ORM Dapper exercise.exe
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\ORM Dapper exercise.deps.json
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\ORM Dapper exercise.runtimeconfig.json
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\ORM Dapper exercise.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\ORM Dapper exercise.pdb
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Dapper.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.AssemblyInfoInputs.cache
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.AssemblyInfo.cs
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.csproj.CopyComplete
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\refint\ORM Dapper exercise.dll
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.pdb
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ORM Dapper exercise.genruntimeconfig.cache
+C:\Users\Damion\source\repos\ORM Dapper exercise\ORM Dapper exercise\obj\Debug\net6.0\ref\ORM Dapper exercise.dll
